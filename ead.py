@@ -1,0 +1,6 @@
+print("\n===açaiteria ===")
+print("1.😊cadastro dos clientes")
+print("2.😉cardapio  da loja")
+print("3.🌹pedidos")
+print("4.🤳chat da loja de açai")
+print("5.🎶Sair")
